@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  background: yellow;
+  padding: 2rem;
+  border-radius: 0.4rem;
+}
